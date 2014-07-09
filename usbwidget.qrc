@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bluebg.jpg</file>
+        <file>networkon.png</file>
+        <file>NetDisConn.ico</file>
+        <file>NetConn24.ico</file>
+        <file>NetConn.ico</file>
+        <file>NetDisConn24.ico</file>
+        <file>SdCard24.ico</file>
+        <file>updating.gif</file>
+        <file>loading.gif</file>
+    </qresource>
+</RCC>
